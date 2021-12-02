@@ -5,7 +5,7 @@
  * Date: 02.12.21
  * Time: 10:01
  */
-$fh = fopen('day2Input.txt','r');
+$fh = fopen('Day 2 - Input.txt','r');
 $position = 0;
 $depth = 0;
 while ($line = fgets($fh)) {
