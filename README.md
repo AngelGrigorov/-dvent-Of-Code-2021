@@ -14,5 +14,5 @@ part. So get ready to `.unwrap()` those 🎁 to save Christmas and don't `panic!
 
 So far:
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/45225789/144907507-57bad541-4964-421e-a492-72768a40bc8c.png" width="408" height="318" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/45225789/145084372-cd4fcff1-7c7a-4d4d-8b92-9b06e026a8b1.png" width="408" height="318" />
 
