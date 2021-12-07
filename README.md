@@ -11,3 +11,8 @@ part. So get ready to `.unwrap()` those 🎁 to save Christmas and don't `panic!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AngelGrigorov3)
 
 [Advent Of Code](https://adventofcode.com/)
+
+So far:
+
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/45225789/144907507-57bad541-4964-421e-a492-72768a40bc8c.png" width="408" height="318" />
+
